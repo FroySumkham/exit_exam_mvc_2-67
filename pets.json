@@ -1,0 +1,72 @@
+[
+    {
+        "id": 14008108,
+        "type": "Phoenix",
+        "last_health_check": "01-02-2025",
+        "vaccines_received": 1,
+        "fire_proof_certified": true
+    },
+    {
+        "id": 54956998,
+        "type": "Phoenix",
+        "last_health_check": "02-02-2025",
+        "vaccines_received": 2,
+        "fire_proof_certified": true
+    },
+    {
+        "id": 38770613,
+        "type": "Phoenix",
+        "last_health_check": "03-02-2025",
+        "vaccines_received": 12,
+        "fire_proof_certified": true
+    },
+    {
+        "id": 86043764,
+        "type": "Dragon",
+        "last_health_check": "05-02-2025",
+        "vaccines_received": 18,
+        "smoke_pollution_level": 20
+    },
+    {
+        "id": 44224694,
+        "type": "Dragon",
+        "last_health_check": "09-02-2025",
+        "vaccines_received": 2,
+        "smoke_pollution_level": 15
+    },
+    {
+        "id": 67375588,
+        "type": "Owl",
+        "last_health_check": "09-02-2025",
+        "vaccines_received": 1,
+        "flight_distance": 102
+    },
+    {
+        "id": 37481418,
+        "type": "Owl",
+        "last_health_check": "14-01-2025",
+        "vaccines_received": 3,
+        "flight_distance": 120
+    },
+    {
+        "id": 10031063,
+        "type": "Phoenix",
+        "last_health_check": "09-02-2025",
+        "vaccines_received": 1,
+        "fire_proof_certified": true
+    },
+    {
+        "id": 31291625,
+        "type": "Dragon",
+        "last_health_check": "09-02-2025",
+        "vaccines_received": 7,
+        "smoke_pollution_level": 20
+    },
+    {
+        "id": 38952619,
+        "type": "Owl",
+        "last_health_check": "09-02-2025",
+        "vaccines_received": 1,
+        "flight_distance": 120
+    }
+]
